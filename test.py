@@ -71,7 +71,9 @@ def changearm(old_label):
     return label
 
 
-def main():
+  
+
+if __name__ == '__main__':
     os.makedirs('sample', exist_ok=True)
     opt = TestOptions().parse()
 
@@ -121,6 +123,3 @@ def main():
             util.save_tensor_as_image(refined_cloth[j],
                                       os.path.join(refined_cloth_dir, data['name'][j]))
 
-
-if __name__ == '__main__':
-    main()
