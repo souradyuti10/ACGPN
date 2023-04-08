@@ -1,7 +1,3 @@
-# Inference using colab
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-[![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/ACGPN/blob/master/ACGPN_and_SieveNet.ipynb)
 
 # Original README
 
@@ -14,9 +10,6 @@ We rearrange the VITON dataset for easy access.
 
 
 [[Dataset_Test]](https://drive.google.com/file/d/1tE7hcVFm8Td8kRh5iYRBSDFdvZIkbUIR/view?usp=sharing) [[Dataset_Train]](https://drive.google.com/file/d/1lHNujZIq6KVeGOOdwnOXVCSR5E7Kv6xv/view?usp=sharing)
-
-
-[[Paper]](https://arxiv.org/abs/2003.05863)
 
 ## Inference
 1) Download the test dataset and unzip
